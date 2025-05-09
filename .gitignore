@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and distribution
+build/
+dist/
+wheels/
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Output files
+output/
+*.xlsx
+*.csv
+
+# Logs and debug
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Tools
+.env/
+.env.*
